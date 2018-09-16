@@ -15,7 +15,7 @@ input_file.shape
 input_file.head(50)
 input_file.tail(50)
 
-input_file.columns
+input_file.columns()
 #looks like 'tweet' column has the tweet
 #and 'choose_one' has the classification
 
